@@ -1,2 +1,2 @@
 # calculator
-### creat simple calculator
+### this program creat simple calculator
